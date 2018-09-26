@@ -3,4 +3,6 @@ set -e
 
 bundle install
 
-puts 'Você está pronto para começar'
+echo
+echo '== Tudo configurado, pode iniciar ;) =='
+
